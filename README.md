@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**priyanshu0125/priyanshu0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst building hands-on projects in SQL and Power BI.
 
-Here are some ideas to get you started:
+## 📊 Data Analytics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Tools | Description |
+|---|---|---|
+| [HR Analytics Dashboard](https://github.com/priyanshu0125/hr-analytics-sql-powerbi) | SQL Server, Power BI, DAX | Headcount, attrition, and salary analysis with an interactive dashboard |
+
+## 🛠️ Skills
+- SQL (joins, GROUP BY, window functions)
+- Power BI (DAX, data modeling, interactive dashboards)
+- Data visualization and storytelling
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/priyanshu-mazumdar
+- Email: priyanshumazumdar25@gmail.com
